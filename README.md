@@ -1,6 +1,6 @@
 # Enhancing-Healthcare-Diagnostics-Leveraging-AWS-Services-for-Medical-Imaging-Analysis
-Project Title : 
-       Enhancing Healthcare Diagnostics Leveraging AWS Services for Medical Imaging Analysis
+Project Title : Enhancing Healthcare Diagnostics Leveraging AWS Services for Medical Imaging Analysis
+
 Description : 
 This project explores the potential of Amazon Web Services (AWS) image recognition services for extracting insights from visual data in the cloud. 
 Utilizing tools like Amazon Rekognition and Amazon SageMaker, we demonstrate various use cases including object detection, facial recognition, and content moderation. 
