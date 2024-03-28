@@ -33,6 +33,21 @@ Amazon Rekognition:
 Amazon SageMarker:
          Build, train, and deploy machine learning (ML) models for any Use case with fully managed infrastructure, tools, and workflows
 
+
+DETAILED PROCEDURAL STEPS:
+
+Implementing AWS Services for Medical Imaging Analysis:-
+
+STEP-1:
+Data Ingestion: Uploading medical imaging data to Amazon S3.
+
+STEP-2:
+Serverless Processing: Utilizing AWS Lambda for efficient data processing.
+
+STEP-3:
+Image Analysis: Leveraging Amazon Rekognition for detailed diagnostic analysis.
+
+
 IMPLEMENTATION STRATEGIES & OUTPUT:
 
 ![image](https://github.com/irfana2003/Enhancing-Healthcare-Diagnostics-Leveraging-AWS-Services-for-Medical-Imaging-Analysis/assets/110710568/7957fdab-a59f-4b93-9e18-309e6480f1fa)
