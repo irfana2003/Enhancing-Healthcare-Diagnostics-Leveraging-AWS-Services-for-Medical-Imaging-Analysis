@@ -18,10 +18,13 @@ LIST OF SERVERLESS SERVICES UTILIZED:-
 
 AWS Lambda: 
           Enabling serverless computing for seamless data processing.
+          
 Amazon S3: 
          Secure and scalable storage for medical imaging data.
+         
 Amazon Rekognition:
          Leveraging advanced image analysis for diagnostic insights.
+         
 Amazon SageMarker:
-         Build, train, and deploy machine learning (ML) models for any     use case with fully managed infrastructure, tools, and workflows
+         Build, train, and deploy machine learning (ML) models for any Use case with fully managed infrastructure, tools, and workflows
 
