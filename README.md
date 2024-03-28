@@ -14,7 +14,7 @@ Utilizing tools like Amazon Rekognition and Amazon SageMaker, we demonstrate var
 We discuss integration with other AWS services, address considerations such as cost and privacy, and provide best practices for deploying image recognition models. 
 Overall, this project offers a comprehensive guide for leveraging AWS image recognition to drive innovation and enhance decision-making processes in the digital era. 
 
-LIST OF SERVERLESS SERVICES UTILIZED:-
+LIST OF SERVERLESS SERVICES UTILIZED:
 
 AWS Lambda: 
           Enabling serverless computing for seamless data processing.
@@ -27,4 +27,8 @@ Amazon Rekognition:
          
 Amazon SageMarker:
          Build, train, and deploy machine learning (ML) models for any Use case with fully managed infrastructure, tools, and workflows
+
+IMPLEMENTATION STRATEGIES & OUTPUT:
+
+![image](https://github.com/irfana2003/Enhancing-Healthcare-Diagnostics-Leveraging-AWS-Services-for-Medical-Imaging-Analysis/assets/110710568/7957fdab-a59f-4b93-9e18-309e6480f1fa)
 
